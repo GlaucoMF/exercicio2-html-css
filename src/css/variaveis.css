@@ -1,0 +1,6 @@
+:root{
+    --text-color: hs1(rgb(199,214,225))
+    --advice-dice-color: hs1(rgb(82,255,170));
+    --advice-card-color: hs1(rgb(49,58,73));
+    --background-color: hs1(rgb(32,38,50));
+}
